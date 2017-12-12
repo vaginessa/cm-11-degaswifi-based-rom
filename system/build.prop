@@ -8,7 +8,7 @@ ro.build.version.codename=REL
 ro.build.version.release=4.4.4
 ro.build.version.security_patch=2017-12-05
 ro.build.version.base_os=
-ro.build.date=Sun Dec  12 04:06:03 CST 2017
+ro.build.date=Tue Dec  12 16:43:01 CST 2017
 ro.build.date.utc=1511698097
 ro.build.type=user
 ro.build.user=dpi
@@ -30,7 +30,7 @@ ro.board.platform=mrvl
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=degaswifiue
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.description=cm_degaswifiue-user 4.4.4 KTU84Q T230NUUEU0APA1 release-keys
+ro.build.description=lineage_degaswifiue-user 4.4.4 KTU84Q T230NUUEU0APA1 release-keys
 ro.build.fingerprint=samsung/degaswifiue/degaswifiue:4.4.4/KTU84Q/T230NUUEU0APA1:user/release-keys
 ro.build.characteristics=tablet
 # Samsung Specific Properties
@@ -124,5 +124,3 @@ ro.ril.disable.power.collapse=0
 debug.performance.tuning=1
 
 ro.HOME_APP_ADJ=1
-
-qemu.hw.mainkeys=1
