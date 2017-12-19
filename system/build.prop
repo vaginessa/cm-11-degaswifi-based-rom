@@ -30,7 +30,7 @@ ro.board.platform=mrvl
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=degaswifiue
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.description=lineage_degaswifiue-user 4.4.4 KTU84Q T230NUUEU0APA1 release-keys
+ro.build.description=cm_degaswifiue-user 4.4.4 KTU84Q T230NUUEU0APA1 release-keys
 ro.build.fingerprint=samsung/degaswifiue/degaswifiue:4.4.4/KTU84Q/T230NUUEU0APA1:user/release-keys
 ro.build.characteristics=tablet
 # Samsung Specific Properties
