@@ -18,4 +18,4 @@ Instructions:
 If you want work on this ROM or update it, etc... (You can name the file what ever you want):
 
 
-First, you download this tree as a .zip format and use a File explorer... Windows, "Explorer" app. ChromeOS, "My Files". Android, I recommend "ES File Explorer" (But use what you want. You do need ROOT for this, but depends what you are doing in "ES File Explorer"). MacOS, I think "Folder"? (I am not too sure. I don't own a Mac) For Ubuntu users and other Linux systems, you will be using "Files". 
+First, you download this tree as a .zip format and use a File explorer... Windows, "Explorer" app. ChromeOS, "My Files". Android, I recommend "ES File Explorer" (But use what you want. You do need ROOT for this, but depends what you are doing in "ES File Explorer"). MacOS, I think "Folder"? (I am not too sure. I don't own a Mac). And for Ubuntu users and other Linux systems, you will be using "Files". 
