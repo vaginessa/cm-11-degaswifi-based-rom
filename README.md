@@ -1,7 +1,7 @@
 # cm-11-degaswifi-based-rom
 
 
-***THIS TREE IS A WORK IN PROGRESS... THAT MEANS, THAT THIS TREE COULD TAKE AWHILE TO BE 100% DONE***
+***THIS TREE IS A WORK IN PROGRESS... THAT MEANS, THIS TREE COULD TAKE AWHILE TO BE 100% DONE***
 
 
 These are the sources for my CM 11 based ROM for the Samsung Galaxy Tab 4 7.0 wifi
